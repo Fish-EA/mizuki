@@ -20,16 +20,6 @@ sourceLink: ""
 
 draft: false
 
-date: 2025-09-14
-
-image:
-
-&nbsp; url: 'https://example.com/image.jpg'
-
-&nbsp; alt: '图片描述'
-
-pubDate: 2025-09-14
-
 ---
 
 #[颍职] NFC校园卡-颍上职业技术学校
