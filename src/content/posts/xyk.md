@@ -1,25 +1,14 @@
 ---
-
 title: 校园卡ID
-
 published: 2025-09-14
-
 pinned: true
-
 description: 记录校园卡的ID
-
 tags: \[校园卡]
-
 category: Examples
-
 licenseName: "Unlicensed"
-
 author: Fish
-
 sourceLink: ""
-
 draft: false
-
 ---
 
 #[颍职] NFC校园卡-颍上职业技术学校
