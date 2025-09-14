@@ -1,8 +1,8 @@
 ---
-title: 校园卡ID
+title: 卡ID
 published: 2025-09-14
 pinned: true
-description: 记录校园卡的ID
+description: 记录卡片的ID
 tags: [校园卡]
 category: Examples
 licenseName: "Unlicensed"
