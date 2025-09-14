@@ -13,6 +13,6 @@ draft: false
 
 # [颍职] NFC校园卡-颍上职业技术学校
 
-## 用于展示校园卡ID
+## 用于展示卡片ID
 
-**我的卡ID:<mark>NO.010175</mark>**
+**01 ID:<mark>NO.010175</mark>**
